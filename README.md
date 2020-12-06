@@ -8,6 +8,8 @@ marker. When Player 1 is done, Player 2 makes a similar move, except choosing be
 Play alternates until all squares are taken or until a player is left without a valid move. The player with the most points 
 at the end is the winner.
 
+![alt text](https://github.com/kaurrachneet6/Maxit/blob/master/maxit_intro_screen.PNG)
+
 The project is subdivided into the following files :
 	
 Maxit.h - Header file containing the class definition and member function prototypes
