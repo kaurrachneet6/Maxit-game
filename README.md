@@ -37,9 +37,13 @@ and player 2.
 of bounds or selecting a column that is already taken), the user is prompted till a valid entry is obtained. In case no valid
 choices exist, game terminates. Options to display help or quit the game at any point are also included.
 
+![alt text](https://github.com/kaurrachneet6/Maxit/blob/master/maxit_game_screen.PNG)
+
 6. Player2_Choice() - Similar to Player1_Choice() and takes the input of row number from Player 2.
 
 7. DisplayHelp() - Displays help whenever player enters 'H'. Player can choose to resume the game after this or quit the game.
+
+![alt text](https://github.com/kaurrachneet6/Maxit/blob/master/maxit_help_screen.PNG)
 
 8. result() - Compares the scores of player 1 and  player 2 and displays the scores. Sets the stopping criterion to true.
 
