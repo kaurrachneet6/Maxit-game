@@ -1,6 +1,5 @@
 # Maxit
-IE498 Computing Project - Maxit Game
-MAXIT
+**IE498 Computing Project - Maxit Game**
 
 Maxit is usually played on an n x n grid of squares. Each square contains a value ranging from -9 to 15. One of the squares is 
 initially designated with a marker (**) indicating the current position. Player 1 may take any square on the same row as the 
